@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\isponsormatchcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\isponsormatchcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\isponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\isponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\controllers\\sponsorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:controllers\\sponsorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\controllers\\sponsormatchcountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:controllers\\sponsormatchcountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\sponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\sponsorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\dao\\sponsormatchcountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:dao\\sponsormatchcountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\models\\sponsormatchcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:models\\sponsormatchcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\models\\sponsorpaymentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:models\\sponsorpaymentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|c:\\users\\vijesh.prajapati\\desktop\\sponsorship\\dotnetbackend\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CFFE1-E2C9-40F2-A112-F888E7C001AB}|SponsorAPI.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISponsorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\ISponsorRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\ISponsorRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\ISponsorRepository.cs",
+              "RelativeToolTip": "DAO\\ISponsorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:50:36.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:04:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\MatchRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\MatchRepository.cs",
+              "RelativeToolTip": "DAO\\MatchRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:51:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T08:59:32.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\IMatchRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\IMatchRepository.cs",
+              "RelativeToolTip": "DAO\\IMatchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:48:54.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISponsorMatchCount.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\ISponsorMatchCount.cs",
+              "RelativeDocumentMoniker": "DAO\\ISponsorMatchCount.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\ISponsorMatchCount.cs",
+              "RelativeToolTip": "DAO\\ISponsorMatchCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:49:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SponsorController.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\SponsorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SponsorController.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\SponsorController.cs",
+              "RelativeToolTip": "Controllers\\SponsorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:04:08.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:03:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Controllers\\MatchesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:16:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SponsorMatchCountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\SponsorMatchCountRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\SponsorMatchCountRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\SponsorMatchCountRepository.cs",
+              "RelativeToolTip": "DAO\\SponsorMatchCountRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:51:48.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SponsorMatchCountController.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\SponsorMatchCountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SponsorMatchCountController.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Controllers\\SponsorMatchCountController.cs",
+              "RelativeToolTip": "Controllers\\SponsorMatchCountController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:04:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SponsorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\SponsorRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\SponsorRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\SponsorRepository.cs",
+              "RelativeToolTip": "DAO\\SponsorRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:52:04.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\PaymentRepository.cs",
+              "RelativeToolTip": "DAO\\PaymentRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:51:30.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "DAO\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\DAO\\IPaymentRepository.cs",
+              "RelativeToolTip": "DAO\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:49:23.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Matches.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\Matches.cs",
+              "RelativeDocumentMoniker": "Models\\Matches.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\Matches.cs",
+              "RelativeToolTip": "Models\\Matches.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:54:17.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SponsorMatchCount.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\SponsorMatchCount.cs",
+              "RelativeDocumentMoniker": "Models\\SponsorMatchCount.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\SponsorMatchCount.cs",
+              "RelativeToolTip": "Models\\SponsorMatchCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:54:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SponsorPaymentSummary.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\SponsorPaymentSummary.cs",
+              "RelativeDocumentMoniker": "Models\\SponsorPaymentSummary.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\SponsorPaymentSummary.cs",
+              "RelativeToolTip": "Models\\SponsorPaymentSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:55:03.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Vijesh.prajapati\\Desktop\\Sponsorship\\DotNetbackEnd\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:54:31.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
